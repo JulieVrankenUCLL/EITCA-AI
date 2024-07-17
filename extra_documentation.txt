@@ -1,0 +1,10 @@
+Create Environment: 
+python -m venv environment
+
+Push to git: 
+- git add -A
+- git commit -m "comment"
+- git push 
+
+clone repo from git: 
+- git clone <link>
